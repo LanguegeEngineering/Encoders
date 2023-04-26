@@ -2,6 +2,7 @@
 
 Proponowana kolejność:
 
+0. BertViz
 1. Minimal Start 
 2. Cyberbullying Transformer
 3. Inference
