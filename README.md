@@ -3,8 +3,7 @@
 Order of files:
 
 0. HerBertViz
-1. Minimal Start 
-2. Cyberbullying Transformer
-3. Inference
-4. NER Transformer
-5. QA Transformer
+1. Transformers_wandb 
+2. Inference
+3. NER Transformer
+4. QA Transformer
